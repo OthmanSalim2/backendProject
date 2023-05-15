@@ -1,0 +1,10 @@
+
+.container {
+    width: 500px;
+    height: 700px;
+    padding-top: 90px;
+}
+
+#btn-primary {
+    margin-left: 40%;
+}
